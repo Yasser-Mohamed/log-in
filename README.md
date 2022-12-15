@@ -1,4 +1,4 @@
 # log-in page
-## just i do it fir my project
+## just i do it for my project
 -- please follow me 
 --thanks
